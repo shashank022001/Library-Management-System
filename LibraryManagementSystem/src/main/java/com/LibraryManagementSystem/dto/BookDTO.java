@@ -1,6 +1,6 @@
 package com.LibraryManagementSystem.dto;
 
-@Entity
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
