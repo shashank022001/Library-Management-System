@@ -3,7 +3,6 @@ package com.LibraryManagementSystem.dto;
 
 
 import java.time.LocalDate;
-@Entity
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
