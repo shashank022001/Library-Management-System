@@ -5,7 +5,7 @@ import com.LibraryManagementSystem.entity.User;
 
 import java.util.Date;
 
-@Entity
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
